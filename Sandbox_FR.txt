@@ -1,0 +1,82 @@
+Sandbox_FR = {
+	Sandbox_TripAndFall = "Trip 'n' Fall",
+
+    Sandbox_TripAndFall_TAFMASTERSWITCH = "INTERRUPTEUR PRINCIPAL",
+    Sandbox_TripAndFall_TAFMASTERSWITCH_tooltip = "Active ou désactive entièrement le mod.",
+
+    Sandbox_TripAndFall_isUndertaker = "Croque-mort",
+    Sandbox_TripAndFall_isUndertaker_tooltip = "Le mod sera désactivé si le personnage porte un cadavre. Par défaut = True",
+
+    Sandbox_TripAndFall_rollFrequencySeconds = "Temps de recharge du jet de chance",
+    Sandbox_TripAndFall_rollFrequencySeconds_tooltip = "Temps de recharge entre les jets de chance de déclenchement, en secondes.",
+
+    Sandbox_TripAndFall_ReadTooltips = "---Lire les info-bulles---",
+    Sandbox_TripAndFall_ReadTooltips_tooltip = "Toutes les valeurs sont en pourcentage, sauf indication contraire. L'ordre de fonctionnement de la formule est l'ordre de cette liste. Suivez les info-bulles et vous verrez comment c'est calculé.",
+
+    Sandbox_TripAndFall_BaseTripChances = "---Chances de base de chute---",
+    Sandbox_TripAndFall_BaseTripChances_tooltip = "Commence avec autant de % (de chance) en fonction du mouvement en cours.",
+
+	Sandbox_TripAndFall_walkingTripChance = "Marche",
+	Sandbox_TripAndFall_runningTripChance = "Course",
+	Sandbox_TripAndFall_sprintingTripChance = "Sprint",
+
+	Sandbox_TripAndFall_TripChanceModifiers = "---Modificateurs de chances de chute---",
+
+	Sandbox_TripAndFall_Misc = "---Divers---",
+	Sandbox_TripAndFall_sneakRunningMult = "Multiplicateur Course furtive",
+	Sandbox_TripAndFall_sneakRunningMult_tooltip = "Multiplie le % par ce nombre si vous courez furtivement.",
+	Sandbox_TripAndFall_zombieAliveMult = "Multiplicateur Zombie (vivant)",
+	Sandbox_TripAndFall_zombieAliveMult_tooltip = "Ajoute ce % pour chaque zombie vivant sous vos pieds.",
+	Sandbox_TripAndFall_zombieDeadMult = "Multiplicateur Zombie (Mort)",
+	Sandbox_TripAndFall_zombieDeadMult_tooltip = "Ajoute ce % pour chaque zombie mort sous vos pieds.",
+	Sandbox_TripAndFall_squareHasStairsMult = "Multiplicateur Escaliers",
+	Sandbox_TripAndFall_squareHasStairsMult_tooltip = "Multiplie le % par ce nombre lorsque vous êtes dans les escaliers.",
+
+	Sandbox_TripAndFall_Professions = "---Professions---",
+	Sandbox_TripAndFall_Professions_tooltip = "Ajoute ce %.",
+	Sandbox_TripAndFall_burglarAdd = "Burglar",
+	Sandbox_TripAndFall_fireOfficerAdd = "Fire Officer",
+	Sandbox_TripAndFall_fitnessInstructorAdd = "Fitness Instructor",
+	Sandbox_TripAndFall_parkRangerAdd = "Park Ranger",
+	Sandbox_TripAndFall_policeOfficerAdd = "Police Officer",
+	Sandbox_TripAndFall_veteranAdd = "Veteran",
+
+	Sandbox_TripAndFall_TraitsGood = "---Caractéristiques (Bon)---",
+	Sandbox_TripAndFall_TraitsGood_tooltip = "Ajoute ce %.",
+	Sandbox_TripAndFall_athleticAdd = "Athletic",
+	Sandbox_TripAndFall_eagleEyedAdd = "Eagle Eyed",
+	Sandbox_TripAndFall_fitAdd = "Fit",
+	Sandbox_TripAndFall_formerScoutAdd = "Former Scout",
+	Sandbox_TripAndFall_gracefulAdd = "Graceful",
+	Sandbox_TripAndFall_gymnastAdd = "Gymnast",
+	Sandbox_TripAndFall_hikerAdd = "Hiker",
+	Sandbox_TripAndFall_hunterAdd = "Hunter",
+	Sandbox_TripAndFall_luckyAdd = "Lucky",
+	Sandbox_TripAndFall_outdoorsmanAdd = "Outdoorsman",
+
+	Sandbox_TripAndFall_TraitsBad = "---Caractéristiques (Mauvais)---",
+	Sandbox_TripAndFall_TraitsBad_tooltip = "Ajoute ce %.",
+	Sandbox_TripAndFall_clumsyAdd = "Clumsy",
+	Sandbox_TripAndFall_outOfShapeAdd = "Out of Shape",
+	Sandbox_TripAndFall_shortSightedAdd = "Short Sighted",
+	Sandbox_TripAndFall_unfitAdd = "Unfit",
+	Sandbox_TripAndFall_unluckyAdd = "Unlucky",
+
+	Sandbox_TripAndFall_Skills = "---Compétences---",
+	Sandbox_TripAndFall_Skills_tooltip = "Multiply the skill level by these numbers and then add it to the %.",
+	Sandbox_TripAndFall_fitnessMult = "Fitness",
+	Sandbox_TripAndFall_sprintingMult = "Sprinting",
+	Sandbox_TripAndFall_sprintingMult_tooltip = "Only in effect while sprinting.",
+	Sandbox_TripAndFall_nimbleMult = "Nimble",
+
+	Sandbox_TripAndFall_Moodles = "---Moodles---",
+	Sandbox_TripAndFall_Moodles_tooltip = "Multiply the moodle level by these numbers and then add it to the %.",
+	Sandbox_TripAndFall_drunkMult = "Drunk",
+	Sandbox_TripAndFall_enduranceMult = "Endurance",
+	Sandbox_TripAndFall_heavyLoadMult = "Heavy Load",
+	Sandbox_TripAndFall_panicMult = "Panic",
+	Sandbox_TripAndFall_tiredMult = "Tired",
+
+	Sandbox_TripAndFall_murphysLaw = "---Murphy's Law---",
+	Sandbox_TripAndFall_murphysLaw_tooltip = "If the final chance to trip was <= 0, then there will be this much % to trip.",
+}
